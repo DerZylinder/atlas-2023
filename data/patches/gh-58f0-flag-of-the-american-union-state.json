@@ -1,0 +1,80 @@
+{
+	"id": -1,
+	"name": "Flag of the American Union State",
+	"description": "One of the Faction Flags from the Second American civil war from the Hearts of Iron 4 mod Kaiserreich",
+	"links": {
+		"subreddit": [
+			"Kaiserreich"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-1225,
+				-641
+			],
+			[
+				-1224,
+				-641
+			],
+			[
+				-1223,
+				-641
+			],
+			[
+				-1223,
+				-640
+			],
+			[
+				-1224,
+				-640
+			],
+			[
+				-1225,
+				-640
+			],
+			[
+				-1225,
+				-639
+			],
+			[
+				-1224,
+				-639
+			],
+			[
+				-1223,
+				-639
+			],
+			[
+				-1223,
+				-638
+			],
+			[
+				-1224,
+				-638
+			],
+			[
+				-1225,
+				-638
+			],
+			[
+				-1225,
+				-637
+			],
+			[
+				-1224,
+				-637
+			],
+			[
+				-1223,
+				-637
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-1223,
+			-640
+		]
+	}
+}
